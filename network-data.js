@@ -636,5 +636,137 @@ window.ANNALS_NETWORK = {
       "计算理论与早期计算机研发",
       "Computation theory and early computer development"
     ]
+  ],
+  "edison": [
+    [
+      "实验室成果与电气系统方案",
+      "Laboratory results and electric lighting system proposal"
+    ],
+    [
+      "Morgan、Vanderbilt 等投资者",
+      "Morgan and Vanderbilt investors"
+    ],
+    [
+      "专利律师、行业网络",
+      "Patent attorney and industry network"
+    ],
+    [
+      "实验、专利、投资谈判",
+      "Experiments, patents and investment negotiations"
+    ],
+    [
+      "电灯公司及供电系统",
+      "Electric lighting company and power system"
+    ]
+  ],
+  "bell": [
+    [
+      "电话实验与专利",
+      "Telephone experiments and patent"
+    ],
+    [
+      "Hubbard、Sanders、Watson",
+      "Hubbard, Sanders and Watson"
+    ],
+    [
+      "教学、家长关系、实验合作",
+      "Teaching, student families and laboratory collaboration"
+    ],
+    [
+      "实验验证、专利、公司组织",
+      "Experiments, patents and company formation"
+    ],
+    [
+      "电话企业",
+      "Telephone enterprise"
+    ]
+  ],
+  "philips": [
+    [
+      "电灯制造工艺",
+      "Lamp manufacturing expertise"
+    ],
+    [
+      "父亲 Frederik、工业客户",
+      "Father Frederik and industrial customers"
+    ],
+    [
+      "家族资本与制造业",
+      "Family capital and manufacturing"
+    ],
+    [
+      "工艺改良、工厂生产",
+      "Process development and factory production"
+    ],
+    [
+      "飞利浦电灯企业",
+      "Philips lighting enterprise"
+    ]
+  ],
+  "nobel": [
+    [
+      "工业化学研究与专利",
+      "Industrial chemistry research and patents"
+    ],
+    [
+      "工业投资者、制造合作伙伴",
+      "Industrial investors and manufacturing partners"
+    ],
+    [
+      "家族企业、工业市场",
+      "Family business and industrial markets"
+    ],
+    [
+      "企业建设、专利与经营",
+      "Factory establishment, patents and management"
+    ],
+    [
+      "德国工业企业",
+      "German industrial enterprise"
+    ]
+  ],
+  "jensen": [
+    [
+      "芯片设计经验与图形计算方向",
+      "Chip design experience and graphics computing vision"
+    ],
+    [
+      "两位联合创始人、早期投资者",
+      "Two co-founders and early investors"
+    ],
+    [
+      "半导体企业、跨公司工程合作",
+      "Semiconductor employers and cross-company engineering collaboration"
+    ],
+    [
+      "联合创办、产品研发、市场验证",
+      "Co-founding, product development and market validation"
+    ],
+    [
+      "NVIDIA",
+      "NVIDIA"
+    ]
+  ],
+  "sanders": [
+    [
+      "电气工程与半导体销售经验",
+      "Electrical engineering and semiconductor sales experience"
+    ],
+    [
+      "前同事、投资人、客户",
+      "Former colleagues, investors and customers"
+    ],
+    [
+      "Fairchild 行业网络",
+      "Fairchild industry network"
+    ],
+    [
+      "团队组建、融资、产品销售",
+      "Team formation, fundraising and sales"
+    ],
+    [
+      "AMD",
+      "AMD"
+    ]
   ]
 };
