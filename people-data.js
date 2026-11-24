@@ -965,6 +965,55 @@ window.ANNALS_PEOPLE = {
       "life": "1958–",
       "bio": "2021年出任德国总理，2022年宣布国防与安全政策转向。",
       "bioEn": "Became German chancellor in 2021 and announced a defense and security policy shift in 2022."
+    },
+    "watt": {
+      "zh": "詹姆斯·瓦特",
+      "en": "James Watt",
+      "life": "1736–1819",
+      "bio": "改进蒸汽机，与马修·博尔顿合作推动商业化。",
+      "bioEn": "Improved the steam engine and commercialized it in partnership with Matthew Boulton."
+    },
+    "faraday": {
+      "zh": "迈克尔·法拉第",
+      "en": "Michael Faraday",
+      "life": "1791–1867",
+      "bio": "从装订学徒成长为实验科学家，发现电磁感应。",
+      "bioEn": "Rose from bookbinding apprentice to experimental scientist and discovered electromagnetic induction."
+    },
+    "brunel": {
+      "zh": "伊桑巴德·金德姆·布鲁内尔",
+      "en": "Isambard Kingdom Brunel",
+      "life": "1806–1859",
+      "bio": "设计铁路、桥梁与蒸汽船。",
+      "bioEn": "Designed railways, bridges and steamships."
+    },
+    "siemens": {
+      "zh": "维尔纳·冯·西门子",
+      "en": "Werner von Siemens",
+      "life": "1816–1892",
+      "bio": "发展电报技术，1847年与约翰·格奥尔格·哈尔斯克创办企业。",
+      "bioEn": "Developed telegraph technology and co-founded a business with Johann Georg Halske in 1847."
+    },
+    "tesla": {
+      "zh": "尼古拉·特斯拉",
+      "en": "Nikola Tesla",
+      "life": "1856–1943",
+      "bio": "发展多相交流电技术，其专利获西屋公司采用。",
+      "bioEn": "Developed polyphase AC technology whose patents were adopted by Westinghouse."
+    },
+    "curie": {
+      "zh": "玛丽·居里",
+      "en": "Marie Curie",
+      "life": "1867–1934",
+      "bio": "研究放射性，与皮埃尔·居里合作发现钋和镭。",
+      "bioEn": "Studied radioactivity and discovered polonium and radium with Pierre Curie."
+    },
+    "turing": {
+      "zh": "艾伦·图灵",
+      "en": "Alan Turing",
+      "life": "1912–1954",
+      "bio": "提出计算理论，并参与英国战时密码分析及早期计算机研究。",
+      "bioEn": "Developed computation theory and contributed to British wartime cryptanalysis and early computing."
     }
   },
   "events": {
