@@ -1014,6 +1014,48 @@ window.ANNALS_PEOPLE = {
       "life": "1912–1954",
       "bio": "提出计算理论，并参与英国战时密码分析及早期计算机研究。",
       "bioEn": "Developed computation theory and contributed to British wartime cryptanalysis and early computing."
+    },
+    "edison": {
+      "zh": "托马斯·爱迪生",
+      "en": "Thomas Edison",
+      "life": "1847–1931",
+      "bio": "1878年参与创办Edison Electric Light Company。",
+      "bioEn": "Co-founded or established Edison Electric Light Company in 1878."
+    },
+    "bell": {
+      "zh": "亚历山大·格雷厄姆·贝尔",
+      "en": "Alexander Graham Bell",
+      "life": "1847–1922",
+      "bio": "1877年参与创办Bell Telephone Company。",
+      "bioEn": "Co-founded or established Bell Telephone Company in 1877."
+    },
+    "philips": {
+      "zh": "赫拉德·飞利浦",
+      "en": "Gerard Philips",
+      "life": "1858–1942",
+      "bio": "1891年参与创办Philips & Co.。",
+      "bioEn": "Co-founded or established Philips & Co. in 1891."
+    },
+    "nobel": {
+      "zh": "阿尔弗雷德·诺贝尔",
+      "en": "Alfred Nobel",
+      "life": "1833–1896",
+      "bio": "1865年参与创办Alfred Nobel & Co. factory。",
+      "bioEn": "Co-founded or established Alfred Nobel & Co. factory in 1865."
+    },
+    "jensen": {
+      "zh": "黄仁勋",
+      "en": "Jensen Huang",
+      "life": "1963–",
+      "bio": "1993年参与创办NVIDIA。",
+      "bioEn": "Co-founded or established NVIDIA in 1993."
+    },
+    "sanders": {
+      "zh": "杰里·桑德斯",
+      "en": "Jerry Sanders",
+      "life": "1936–",
+      "bio": "1969年参与创办Advanced Micro Devices (AMD)。",
+      "bioEn": "Co-founded or established Advanced Micro Devices (AMD) in 1969."
     }
   },
   "events": {
