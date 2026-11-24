@@ -482,5 +482,159 @@ window.ANNALS_NETWORK = {
       "布拉格之春，后遭苏联干预",
       "Prague Spring followed by Soviet intervention"
     ]
+  ],
+  "watt": [
+    [
+      "独立冷凝器与效率改进",
+      "Separate condenser and efficiency improvements"
+    ],
+    [
+      "博尔顿、工业客户",
+      "Boulton and industrial customers"
+    ],
+    [
+      "大学仪器工坊、商业合伙",
+      "University workshop and business partnership"
+    ],
+    [
+      "样机试验、专利、设备安装",
+      "Prototyping, patents and installation"
+    ],
+    [
+      "蒸汽机商业化",
+      "Commercial steam engines"
+    ]
+  ],
+  "faraday": [
+    [
+      "讲座笔记与实验技能",
+      "Lecture notes and experimental skill"
+    ],
+    [
+      "汉弗里·戴维、皇家研究院",
+      "Humphry Davy and Royal Institution"
+    ],
+    [
+      "公开讲座、书信、实验室",
+      "Public lectures, correspondence and laboratory"
+    ],
+    [
+      "记录讲座、申请职位、实验与演示",
+      "Documented lectures, applied for work, experimented and demonstrated"
+    ],
+    [
+      "研究职位与电磁学成果",
+      "Research post and electromagnetic discoveries"
+    ]
+  ],
+  "brunel": [
+    [
+      "大型工程设计及执行能力",
+      "Large-scale design and delivery"
+    ],
+    [
+      "铁路董事会、工程承包商",
+      "Railway boards and contractors"
+    ],
+    [
+      "家庭工程网络、项目委任",
+      "Family engineering network and project appointments"
+    ],
+    [
+      "设计审查、施工协调、项目交付",
+      "Design reviews, construction coordination and delivery"
+    ],
+    [
+      "铁路及基础设施项目",
+      "Railway and infrastructure projects"
+    ]
+  ],
+  "siemens": [
+    [
+      "指针电报及工程实践",
+      "Pointer telegraph and engineering practice"
+    ],
+    [
+      "哈尔斯克、政府及电信客户",
+      "Halske, governments and telecom clients"
+    ],
+    [
+      "军队技术部门、企业合伙",
+      "Military technical service and business partnership"
+    ],
+    [
+      "原型、工程合同、跨国项目",
+      "Prototypes, engineering contracts and international projects"
+    ],
+    [
+      "电报及电气产业企业",
+      "Telegraph and electrical enterprise"
+    ]
+  ],
+  "tesla": [
+    [
+      "交流电机与多相系统专利",
+      "AC motor and polyphase patents"
+    ],
+    [
+      "投资者、乔治·西屋",
+      "Investors and George Westinghouse"
+    ],
+    [
+      "工程雇佣、专利代理、专业演讲",
+      "Engineering employment, patent agents and professional lectures"
+    ],
+    [
+      "样机验证、专利许可、技术演示",
+      "Prototyping, licensing and demonstrations"
+    ],
+    [
+      "交流电技术商业应用",
+      "Commercial deployment of AC technology"
+    ]
+  ],
+  "curie": [
+    [
+      "可重复的放射性研究与论文",
+      "Reproducible radioactivity research and publications"
+    ],
+    [
+      "皮埃尔·居里、大学及研究机构",
+      "Pierre Curie, universities and research institutions"
+    ],
+    [
+      "大学、实验室、学术会议与出版",
+      "Universities, laboratories, scientific meetings and publishing"
+    ],
+    [
+      "实验、共同研究、发表成果",
+      "Experiments, collaboration and publication"
+    ],
+    [
+      "研究职位与科研机构",
+      "Research appointments and institutions"
+    ]
+  ],
+  "turing": [
+    [
+      "计算理论论文与数学能力",
+      "Computation theory papers and mathematical skill"
+    ],
+    [
+      "大学、政府研究机构、工程团队",
+      "Universities, government research bodies and engineering teams"
+    ],
+    [
+      "大学研究、政府任职、专业合作",
+      "Academic research, government service and professional collaboration"
+    ],
+    [
+      "论文、数学建模、计算机设计",
+      "Papers, mathematical modeling and computer design"
+    ],
+    [
+      "计算理论与早期计算机研发",
+      "Computation theory and early computer development"
+    ]
   ]
 };
