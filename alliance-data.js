@@ -152,5 +152,54 @@ window.ANNALS_BUILDERS = {
     "network": "通过党内晋升与改革派合作推动布拉格之春。",
     "networkEn": "Advanced the Prague Spring through party advancement and reformist cooperation.",
     "grade": "conditional"
+  },
+  "watt": {
+    "origin": "父亲经营船舶相关贸易，具有工艺及商业资源；非严格零背景。",
+    "originEn": "His father worked in maritime trades and business; not a strict zero-background case.",
+    "network": "在格拉斯哥大学从事仪器工作，经约瑟夫·布莱克等学术关系接触赞助者，后与博尔顿合作。",
+    "networkEn": "Instrument work at Glasgow University and academic connections including Joseph Black preceded his partnership with Boulton.",
+    "grade": "conditional"
+  },
+  "faraday": {
+    "origin": "铁匠家庭，未继承科学机构职位。",
+    "originEn": "Blacksmith's family; inherited no scientific institutional office.",
+    "network": "听戴维讲座并整理笔记寄给他，后进入皇家研究院担任助手。",
+    "networkEn": "Attended Davy's lectures, sent him notes and later became his assistant at the Royal Institution.",
+    "grade": "strong"
+  },
+  "brunel": {
+    "origin": "父亲是知名工程师马克·布鲁内尔；继承专业网络。",
+    "originEn": "His father was the prominent engineer Marc Brunel; inherited professional connections.",
+    "network": "参与父亲的泰晤士河隧道工程，随后通过大西部铁路等项目扩大资源网络。",
+    "networkEn": "Worked on his father's Thames Tunnel before expanding his network through projects including the Great Western Railway.",
+    "grade": "conditional"
+  },
+  "siemens": {
+    "origin": "家庭并非世袭工业集团，但有教育与军队训练渠道。",
+    "originEn": "No inherited industrial empire, but education and military training provided access.",
+    "network": "借军事工程经验、电报技术和机械师哈尔斯克的合作进入产业市场。",
+    "networkEn": "Military engineering experience, telegraph technology and partnership with mechanic Halske opened industrial markets.",
+    "grade": "strong"
+  },
+  "tesla": {
+    "origin": "父亲为东正教神职人员，未继承工业企业。",
+    "originEn": "His father was an Orthodox priest; he inherited no industrial company.",
+    "network": "通过电气工程任职、专利与公开技术演讲接触投资者和西屋公司。",
+    "networkEn": "Electrical engineering jobs, patents and technical lectures connected him to investors and Westinghouse.",
+    "grade": "strong"
+  },
+  "curie": {
+    "origin": "教师家庭，有教育资源但未继承实验室或研究职位。",
+    "originEn": "Teachers' family with educational resources but no inherited laboratory or research post.",
+    "network": "通过巴黎大学、研究合作、学术发表和研究机构获得实验资源。",
+    "networkEn": "University of Paris, research partnerships, publications and institutions provided laboratory resources.",
+    "grade": "strong"
+  },
+  "turing": {
+    "origin": "父亲为印度文官，受过优质教育；不属于严格零资源。",
+    "originEn": "His father was an Indian Civil Service official; he had strong educational access.",
+    "network": "通过剑桥、普林斯顿、政府研究机构及专业数学网络获得合作。",
+    "networkEn": "Cambridge, Princeton, government research institutions and mathematical networks enabled collaboration.",
+    "grade": "conditional"
   }
 };
