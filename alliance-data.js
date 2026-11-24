@@ -201,5 +201,47 @@ window.ANNALS_BUILDERS = {
     "network": "通过剑桥、普林斯顿、政府研究机构及专业数学网络获得合作。",
     "networkEn": "Cambridge, Princeton, government research institutions and mathematical networks enabled collaboration.",
     "grade": "conditional"
+  },
+  "edison": {
+    "origin": "早期电报员，未继承电气企业。",
+    "originEn": "Worked as a telegraph operator; did not inherit an electrical enterprise.",
+    "network": "电报行业、专利律师 Grosvenor Lowrey 与金融投资者。",
+    "networkEn": "Telegraph industry contacts and patent attorney Grosvenor Lowrey connected him with financiers.",
+    "grade": "strong"
+  },
+  "bell": {
+    "origin": "父亲是语音教育专家，家庭提供专业知识与职业渠道。",
+    "originEn": "His father was a speech education specialist; family expertise shaped his professional access.",
+    "network": "通过聋人教育认识学生家长 Gardiner Hubbard 与 Thomas Sanders，获得支持。",
+    "networkEn": "Teaching deaf students connected him to patrons Gardiner Hubbard and Thomas Sanders.",
+    "grade": "conditional"
+  },
+  "philips": {
+    "origin": "父亲 Frederik 提供资本并共同创办企业。",
+    "originEn": "His father Frederik provided capital and co-founded the business.",
+    "network": "利用工程训练与父亲资本建立电灯制造厂。",
+    "networkEn": "Combined engineering training with his father's capital to establish a lamp factory.",
+    "grade": "conditional"
+  },
+  "nobel": {
+    "origin": "父亲是工程师与企业主，有上一代技术和商业资源。",
+    "originEn": "His father was an engineer and business owner; inherited technical and business access.",
+    "network": "家族工业经验、专利及德国制造业网络。",
+    "networkEn": "Family industrial experience, patents and German manufacturing contacts.",
+    "grade": "conditional"
+  },
+  "jensen": {
+    "origin": "未继承半导体公司；教育及行业工作是重要资源。",
+    "originEn": "Did not inherit a semiconductor business; education and industry employment provided access.",
+    "network": "通过 AMD、LSI Logic 工作及与 Chris Malachowsky、Curtis Priem 的专业合作建立创始团队。",
+    "networkEn": "Industry employment at AMD and LSI Logic and professional ties to Chris Malachowsky and Curtis Priem led to a founding team.",
+    "grade": "strong"
+  },
+  "sanders": {
+    "origin": "未继承半导体公司；具体家族网络仍待核查。",
+    "originEn": "Did not inherit a semiconductor company; family networks need further verification.",
+    "network": "通过半导体行业工作、前 Fairchild 同事和投资渠道建立创业团队。",
+    "networkEn": "Semiconductor industry employment, former Fairchild colleagues and financing channels enabled the founding team.",
+    "grade": "strong"
   }
 };
