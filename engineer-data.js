@@ -30,5 +30,29 @@ window.ANNALS_ENGINEERS = {
   "stephenson": {
     "chapter": 47,
     "year": 1829
+  },
+  "edison": {
+    "chapter": 52,
+    "year": 1878
+  },
+  "bell": {
+    "chapter": 52,
+    "year": 1877
+  },
+  "philips": {
+    "chapter": 52,
+    "year": 1891
+  },
+  "nobel": {
+    "chapter": 51,
+    "year": 1865
+  },
+  "jensen": {
+    "chapter": 69,
+    "year": 1993
+  },
+  "sanders": {
+    "chapter": 65,
+    "year": 1969
   }
 };
